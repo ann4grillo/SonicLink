@@ -25,7 +25,10 @@ Users will be reccomended a set of users that enjoy similar music and have the s
 
 # Contributers
 
-Rohan Udupa : rudupa@calpoly.edu
+Rohan Udupa : rudupa@calpoly.edu </br>
+Anna Grillo : argrillo@calpoly.edu </br>
+Kip Stackle : argrillo@calpoly.edu 
+
 
 
 
