@@ -1,11 +1,11 @@
-<b> 12 user stories:<b/>
+<h2> 12 user stories:<h2/>
 
 As a user, I want to be able to create 'tags' to classify songs that I enjoy and share my thoughts with others. <br/>
 As a user, I want to search for songs using specific tags, so that I can find new music beyond traditional genres.<br/>
 As a user, I want to be reccomened users that have had similar activity to me so that I can connect with people who have similar musical tastes.<br/>
 As a user, I want to see songs that other users have added to tags, so that I can listen to music that others think match the tag.<br/>
 
-<b> 12 exceptions: <b/>
+<h2> 12 exceptions: <h2/>
 A user's tag creation fails.
   - There will be a clear message with the error, (ie. Your tag exceeds the character limit. Please stay within 50 characters)
 
