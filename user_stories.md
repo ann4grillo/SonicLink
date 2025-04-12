@@ -6,6 +6,7 @@ As a user, I want to be reccomened users that have had similar activity to me so
 As a user, I want to see songs that other users have added to tags, so that I can listen to music that others think match the tag.<br/>
 
 <h4> 12 exceptions: <h4/>
+  
 A search for song by tag returns nothing.
   - There will be a clear message that explains that the tag has no songs yet added to it and reccomends that the user adds a song
   
