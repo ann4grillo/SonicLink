@@ -6,11 +6,11 @@ As a user, I want to be reccomened users that have had similar activity to me so
 As a user, I want to see songs that other users have added to tags, so that I can listen to music that others think match the tag.<br/>
 
 <h4> 12 exceptions: <h4/>
-A user's tag creation fails.
-  - There will be a clear message with the error, (ie. Your tag exceeds the character limit. Please stay within 50 characters)
-
 A search for song by tag returns nothing.
   - There will be a clear message that explains that the tag has no songs yet added to it and reccomends that the user adds a song
+  
+A user's tag creation fails.
+  - There will be a clear message with the error, (ie. Your tag exceeds the character limit. Please stay within 50 characters)
 
 No user reccomendations have been made.
   - A message will be shown stating that to get reccomendations, the user needs to interact more by adding more songs to tags, creating tags, or just searching for music.
